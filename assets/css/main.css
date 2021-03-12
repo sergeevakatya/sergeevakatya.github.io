@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	
 }
 
 ol, ul {
@@ -71,6 +72,7 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+}
 
 /* Basic */
 #gle-form {
@@ -82,6 +84,7 @@ input, select, textarea {
 }
 	html {
 		box-sizing: border-box;
+		scroll-behavior: smooth;
 	}
 
 	*, *:before, *:after {
